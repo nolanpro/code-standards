@@ -1,0 +1,12 @@
+{
+    "name": "nolan/code-standards",
+    "type": "library",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Nolan Ehrstrom",
+            "email": "github@nolanpro.com"
+        }
+    ],
+    "require": {}
+}
